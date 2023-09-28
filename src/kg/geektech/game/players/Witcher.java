@@ -1,6 +1,6 @@
 package kg.geektech.game.players;
 
-public class Witcher extends kg.geektech.game.players.Hero {
+public class  Witcher extends kg.geektech.game.players.Hero {
 
 
     public Witcher(int health, int damage, String name) {

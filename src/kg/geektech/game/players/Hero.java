@@ -1,6 +1,6 @@
 package kg.geektech.game.players;
 
-public abstract class Hero extends kg.geektech.game.players.GameEntity
+public abstract class  Hero extends kg.geektech.game.players.GameEntity
         implements kg.geektech.game.players.HavingSuperAbility {
     private SuperAbility ability;
 

@@ -1,5 +1,5 @@
 package kg.geektech.game.players;
-public class Magic extends kg.geektech.game.players.Hero {
+public class  Magic extends kg.geektech.game.players.Hero {
     private double increase;
     public Magic(int health, int damage, String name) {
         super(health, damage, name, SuperAbility.BOOST);

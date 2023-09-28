@@ -1,6 +1,6 @@
 package kg.geektech.game.players;
 
-public class Golem extends kg.geektech.game.players.Hero {
+public class  Golem extends kg.geektech.game.players.Hero {
     public Golem(int health, int damage, String name) {
         super(health, damage, name, SuperAbility.PROTECT);
     }

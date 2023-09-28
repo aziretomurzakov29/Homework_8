@@ -4,7 +4,7 @@ import kg.geektech.game.players.*;
 
 import java.util.Random;
 
-public class RPG_Game {
+public class  RPG_Game {
     private static int roundNumber;
     public static Random random = new Random();
 

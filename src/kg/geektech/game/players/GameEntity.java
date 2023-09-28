@@ -1,6 +1,6 @@
 package kg.geektech.game.players;
 
-public abstract class GameEntity {
+public abstract class  GameEntity {
     private int health;
     private int damage;
     private String name;

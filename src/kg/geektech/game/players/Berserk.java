@@ -2,7 +2,7 @@ package kg.geektech.game.players;
 
 import kg.geektech.game.general.RPG_Game;
 
-public class Berserk extends Hero {
+public class  Berserk extends Hero {
     private int savedDamage;
 
     public Berserk(int health, int damage, String name) {

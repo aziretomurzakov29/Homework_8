@@ -1,6 +1,6 @@
 package kg.geektech.game.players;
 
-public class Medic extends Hero {
+public class  Medic extends Hero {
     private int healPoints;
 
     public Medic(int health, int damage, int healPoints, String name) {

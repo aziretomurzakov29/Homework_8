@@ -2,7 +2,7 @@ package kg.geektech.game.players;
 
 import kg.geektech.game.general.RPG_Game;
 
-public class Deku extends kg.geektech.game.players.Hero {
+public class  Deku extends kg.geektech.game.players.Hero {
     public Deku(int health, int damage, String name) {
         super(health, damage, name, SuperAbility.AMPLIFIER);
     }

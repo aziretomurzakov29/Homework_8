@@ -2,7 +2,7 @@ package kg.geektech.game.players;
 
 import kg.geektech.game.general.RPG_Game;
 
-public class Warrior extends kg.geektech.game.players.Hero {
+public class  Warrior extends kg.geektech.game.players.Hero {
     public Warrior(int health, int damage, String name) {
 
         super(health, damage, name, SuperAbility.CRITICAL_DAMAGE);
